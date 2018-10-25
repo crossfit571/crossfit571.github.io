@@ -1,0 +1,17 @@
+
+.coach-li{
+    text-align: left;
+    color:black;
+}
+
+.tarif {
+    font-weight: bold;
+}
+
+.ul-tarifs {
+    list-style: none;
+}
+
+.danger {
+    color: #f7765f;
+}
