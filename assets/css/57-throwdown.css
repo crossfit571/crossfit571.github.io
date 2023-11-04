@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Montserrat-Bold"; /* Le nom que vous souhaitez donner à la police */
+    src: url('../fonts/Montserrat-Bold.ttf') format('truetype'); /* Spécifiez le chemin vers le fichier TTF */
+}
+
+
+@font-face {
+    font-family: "Montserrat-ExtraBold"; /* Le nom que vous souhaitez donner à la police */
+    src: url('../fonts/Montserrat-ExtraBold.ttf') format('truetype'); /* Spécifiez le chemin vers le fichier TTF */
+}
+
+@font-face {
+    font-family: "Montserrat-Medium"; /* Le nom que vous souhaitez donner à la police */
+    src: url('../fonts/Montserrat-Medium.ttf') format('truetype'); /* Spécifiez le chemin vers le fichier TTF */
+}
+
+@font-face {
+    font-family: "Montserrat-Regular"; /* Le nom que vous souhaitez donner à la police */
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype'); /* Spécifiez le chemin vers le fichier TTF */
+}
+
+.nucleo-Bold {
+    font-family: "Montserrat-Bold";
+}
+
+.nucleo-ExtraBold {
+    font-family: "Montserrat-ExtraBold";
+}
+
+.nucleo-Medium {
+    font-family: "Montserrat-Medium";
+}
+
+.nucleo-Regular {
+    font-family: "Montserrat-Regular";
+}
